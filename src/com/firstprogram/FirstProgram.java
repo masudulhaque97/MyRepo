@@ -23,6 +23,14 @@ public class FirstProgram {
 		int mul = n1 * n2 ;
 		System.out.println(mul);
 		
+		int n5 = 120;
+		int n9 = 34;
+		int div = n5 * n9 ;
+		System.out.println(div);
+		
+		
+		
+		
 		
 		
 		
